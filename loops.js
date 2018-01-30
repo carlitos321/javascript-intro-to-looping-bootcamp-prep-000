@@ -10,11 +10,11 @@ function forLoop(array) {
 }
 
 
-function whileLoop {
+function whileLoop() {
 
 }
 
 
-function doWhileLoop {
+function doWhileLoop() {
 
 }
